@@ -1,7 +1,7 @@
 # KPDL_Final
-This is the repository of Group 4's final project whose subject is Data Mining and is currently studying and doing research on this discipline in University of Economics Ho Chi Minh city.
+Research on ECLAT about Association Rule Mining and its evaluation on real-time performace in comparison with Apriori and FP-Growth
 
-Members: 
+Contributors: 
 
          1. Phan Trung Hiếu
 
